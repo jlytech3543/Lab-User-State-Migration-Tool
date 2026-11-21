@@ -1,5 +1,3 @@
-# Lab-User-State-Migration-Tool
-
 <h1>User State Migration Tool Introduction</h1>
 
 <p>
